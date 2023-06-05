@@ -1,5 +1,5 @@
 # Project_9_stc2023
-<h2>V poradí 9. projekt 1.trimestra programu ŠTC2</h2>
+<h3>V poradí 9. projekt 1.trimestra programu ŠTC </h3>
  <p> <li>Meno a priezvisko : <strong>Tomáš Bujňák</strong></li><br>
  <li>Názov absolvovaného študijného programu: <strong>Introduction to version control with Git - Training</strong> (Learning Path)</li><br>
  <li>Názov absolvovaného modulu: <strong>Introduction to GitHub - Training</strong> (Module)</li><br>
